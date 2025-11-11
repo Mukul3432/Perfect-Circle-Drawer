@@ -1,0 +1,7 @@
+{
+  "radius": 340,
+  "steps": 2000,
+  "draw_speed": 0.002,
+  "start_key": "alt_l",
+  "exit_key": "esc"
+}
